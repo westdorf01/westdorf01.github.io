@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kapulusite</title>
+    <link>https://westdorf01.github.io/</link>
+    <description>Recent content on kapulusite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 27 Mar 2021 20:05:50 +0900</lastBuildDate>
+    
+	<atom:link href="https://westdorf01.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>春になってきた</title>
+      <link>https://westdorf01.github.io/blog/2021/30751/</link>
+      <pubDate>Sat, 27 Mar 2021 20:05:50 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2021/30751/</guid>
+      <description>if (!jQuery) { alert(&#34;jquery is not loaded&#34;); } $( document ).ready(() = { const gallery = $(&#34;#gallery-0&#34;); gallery.justifiedGallery({ rowHeight : &#34;150&#34;, margins : &#34;5&#34;, border : 0, waitThumbnailsLoad : false, lastRow : &#34;justify&#34;, captions : false, }); let swipeboxInstance = null; gallery.on(&#39;jg.complete&#39;, () = { $(() = { $(&#39;.lazy&#39;).Lazy({ visibleOnly: true, afterLoad: element = element.css({filter: &#34;none&#34;, transition: &#34;filter 1.0s ease-in-out&#34;}) }); }); swipeboxInstance = $(&#39;.galleryImg&#39;).swipebox( jQuery.extend({}, { } ) );</description>
+    </item>
+    
+    <item>
+      <title>スモークサーモン失敗</title>
+      <link>https://westdorf01.github.io/blog/2020/30717/</link>
+      <pubDate>Wed, 30 Dec 2020 20:01:06 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30717/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;672&amp;rdquo; gal_title=&amp;quot;20201230&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>昔暮した西新宿</title>
+      <link>https://westdorf01.github.io/blog/2020/30680/</link>
+      <pubDate>Sat, 14 Nov 2020 17:36:06 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30680/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;670&amp;rdquo; gal_title=&amp;quot;20201114-1&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>神田上水助水路</title>
+      <link>https://westdorf01.github.io/blog/2020/30678/</link>
+      <pubDate>Sat, 14 Nov 2020 17:18:08 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30678/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;667&amp;rdquo; gal_title=&amp;quot;20201114&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>まぼろし；半年振りの大阪</title>
+      <link>https://westdorf01.github.io/blog/2020/30633/</link>
+      <pubDate>Thu, 08 Oct 2020 22:27:22 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30633/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;665&amp;rdquo; gal_title=&amp;quot;20201008&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>ワルに誘われ外で食事</title>
+      <link>https://westdorf01.github.io/blog/2020/30615/</link>
+      <pubDate>Tue, 06 Oct 2020 22:11:31 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30615/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;663&amp;rdquo; gal_title=&amp;quot;20201006&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>超久々の外出:フィギアを買いに行ったのではない</title>
+      <link>https://westdorf01.github.io/blog/2020/30612/</link>
+      <pubDate>Sat, 19 Sep 2020 01:27:41 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30612/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;661&amp;rdquo; gal_title=&amp;quot;20200919&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>ゆっきでした</title>
+      <link>https://westdorf01.github.io/blog/2020/30533/</link>
+      <pubDate>Sun, 29 Mar 2020 10:46:54 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30533/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;641&amp;rdquo; gal_title=&amp;quot;20200329&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>さくら満開</title>
+      <link>https://westdorf01.github.io/blog/2020/30518/</link>
+      <pubDate>Sat, 28 Mar 2020 14:14:54 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30518/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;636&amp;rdquo; gal_title=&amp;quot;20200328&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#137_20200325@門前仲町(2019#29)</title>
+      <link>https://westdorf01.github.io/blog/2020/30502/</link>
+      <pubDate>Wed, 25 Mar 2020 23:37:06 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30502/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;634&amp;rdquo; gal_title=&amp;quot;道場#137_20200325@門前仲町(2019#29)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>さくらさいた</title>
+      <link>https://westdorf01.github.io/blog/2020/30485/</link>
+      <pubDate>Sun, 22 Mar 2020 19:59:06 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30485/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;630&amp;rdquo; gal_title=&amp;quot;20200322&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>下谷區坂本辺りを散歩</title>
+      <link>https://westdorf01.github.io/blog/2020/30465/</link>
+      <pubDate>Sat, 21 Mar 2020 17:41:18 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30465/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;628&amp;rdquo; gal_title=&amp;quot;20200321&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#136_20200318@北新地(2019#28)</title>
+      <link>https://westdorf01.github.io/blog/2020/30453/</link>
+      <pubDate>Wed, 18 Mar 2020 23:24:06 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30453/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;626&amp;rdquo; gal_title=&amp;quot;道場#136_20200318@北新地(2019#28)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>道場#135_20200311@白金(2019#27)</title>
+      <link>https://westdorf01.github.io/blog/2020/30435/</link>
+      <pubDate>Wed, 11 Mar 2020 23:52:47 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30435/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;624&amp;rdquo; gal_title=&amp;quot;道場#135_20200311@白金(2019#27)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>道場#134_20200306@福岡(2019#26)</title>
+      <link>https://westdorf01.github.io/blog/2020/30411/</link>
+      <pubDate>Fri, 06 Mar 2020 23:43:56 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30411/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;622&amp;rdquo; gal_title=&amp;quot;道場#134_20200306@福岡(2019#26)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>板橋區大泉を散歩、もう春だわ</title>
+      <link>https://westdorf01.github.io/blog/2020/30368/</link>
+      <pubDate>Sun, 23 Feb 2020 20:52:05 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30368/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;613&amp;rdquo; gal_title=&amp;quot;20200223&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>東京で京都のしゃぶしゃぶ</title>
+      <link>https://westdorf01.github.io/blog/2020/30349/</link>
+      <pubDate>Fri, 21 Feb 2020 22:38:44 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30349/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;611&amp;rdquo; gal_title=&amp;quot;20200221&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#133_20200219@北新地(2019#25)</title>
+      <link>https://westdorf01.github.io/blog/2020/30330/</link>
+      <pubDate>Wed, 19 Feb 2020 22:59:53 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30330/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;609&amp;rdquo; gal_title=&amp;quot;道場#133_20200219@北新地(2019#25)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>道場#132_20200212@水天宮(2019#24)</title>
+      <link>https://westdorf01.github.io/blog/2020/30312/</link>
+      <pubDate>Wed, 12 Feb 2020 23:17:48 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30312/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;607&amp;rdquo; gal_title=&amp;quot;道場#132_20200212@水天宮(2019#24)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>葛飾區水元あたりを散歩</title>
+      <link>https://westdorf01.github.io/blog/2020/30291/</link>
+      <pubDate>Tue, 11 Feb 2020 20:35:54 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30291/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;605&amp;rdquo; gal_title=&amp;quot;20200211&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>代官山から渋谷</title>
+      <link>https://westdorf01.github.io/blog/2020/30270/</link>
+      <pubDate>Sun, 09 Feb 2020 17:08:23 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30270/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;603&amp;rdquo; gal_title=&amp;quot;20200209&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#131_20200205@博多(2019#23)</title>
+      <link>https://westdorf01.github.io/blog/2020/30249/</link>
+      <pubDate>Wed, 05 Feb 2020 23:41:11 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30249/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;601&amp;rdquo; gal_title=&amp;quot;道場#131_20200205@博多(2019#23)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>道場#130_20200129@福島(2019#22)</title>
+      <link>https://westdorf01.github.io/blog/2020/30232/</link>
+      <pubDate>Wed, 29 Jan 2020 23:46:47 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30232/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;599&amp;rdquo; gal_title=&amp;quot;道場#130_20200129@福島(2019#22)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>道場#129_20200122@西中州(2019#21)</title>
+      <link>https://westdorf01.github.io/blog/2020/30212/</link>
+      <pubDate>Wed, 22 Jan 2020 23:11:22 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30212/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;597&amp;rdquo; gal_title=&amp;quot;道場#129_20200122@西中州(2019#21)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>道場#128_20200115@両国(2019#20)</title>
+      <link>https://westdorf01.github.io/blog/2020/30190/</link>
+      <pubDate>Wed, 15 Jan 2020 23:27:59 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30190/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;595&amp;rdquo; gal_title=&amp;quot;道場#128_2020015@両国(2019#20)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>品川區品川のへんを散歩</title>
+      <link>https://westdorf01.github.io/blog/2020/30167/</link>
+      <pubDate>Mon, 13 Jan 2020 21:15:01 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30167/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;593&amp;rdquo; gal_title=&amp;quot;20200113&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>どんと焼き</title>
+      <link>https://westdorf01.github.io/blog/2020/30146/</link>
+      <pubDate>Sun, 12 Jan 2020 12:45:13 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30146/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;591&amp;rdquo; gal_title=&amp;quot;20200112&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#127_20200107@西中州(2019#19)</title>
+      <link>https://westdorf01.github.io/blog/2020/30118/</link>
+      <pubDate>Tue, 07 Jan 2020 22:59:06 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30118/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;589&amp;rdquo; gal_title=&amp;quot;道場#127_20200107@西中州(2019#19)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>新年会@福島</title>
+      <link>https://westdorf01.github.io/blog/2020/30099/</link>
+      <pubDate>Mon, 06 Jan 2020 22:51:00 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30099/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;586&amp;rdquo; gal_title=&amp;quot;20200106&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>2020年 明けましておめでとうございます</title>
+      <link>https://westdorf01.github.io/blog/2020/30074/</link>
+      <pubDate>Wed, 01 Jan 2020 16:54:22 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2020/30074/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;584&amp;rdquo; gal_title=&amp;quot;20200101&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#126_20191225@北新地(2019#18)</title>
+      <link>https://westdorf01.github.io/blog/2019/29951/</link>
+      <pubDate>Wed, 25 Dec 2019 22:36:06 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29951/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;572&amp;rdquo; gal_title=&amp;quot;道場#126_20191225@北新地(2019#18)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>近所で中華</title>
+      <link>https://westdorf01.github.io/blog/2019/29869/</link>
+      <pubDate>Sun, 22 Dec 2019 21:25:55 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29869/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;562&amp;rdquo; gal_title=&amp;quot;20191222&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#125_20191217@天神(2019#17)</title>
+      <link>https://westdorf01.github.io/blog/2019/29725/</link>
+      <pubDate>Tue, 17 Dec 2019 22:15:39 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29725/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;548&amp;rdquo; gal_title=&amp;quot;道場#125_20191217@天神(2019#17)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>熱海ですき焼きと花火</title>
+      <link>https://westdorf01.github.io/blog/2019/29710/</link>
+      <pubDate>Sun, 15 Dec 2019 22:49:31 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29710/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;546&amp;rdquo; gal_title=&amp;quot;20191215&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#124_20191211@西中州(2019#16)</title>
+      <link>https://westdorf01.github.io/blog/2019/29688/</link>
+      <pubDate>Thu, 12 Dec 2019 23:23:14 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29688/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;544&amp;rdquo; gal_title=&amp;quot;道場#124_20191211@西中州(2019#16)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>7☆7同窓会合宿</title>
+      <link>https://westdorf01.github.io/blog/2019/29668/</link>
+      <pubDate>Tue, 10 Dec 2019 23:53:22 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29668/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;542&amp;rdquo; gal_title=&amp;quot;20191210&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#123_20191205@銀座(2019#15)</title>
+      <link>https://westdorf01.github.io/blog/2019/29650/</link>
+      <pubDate>Thu, 05 Dec 2019 23:17:30 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29650/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;540&amp;rdquo; gal_title=&amp;quot;道場#123_20191205@銀座(2019#15)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>海外42 2019年11月 Wuppertal</title>
+      <link>https://westdorf01.github.io/blog/2019/29935/</link>
+      <pubDate>Sat, 30 Nov 2019 17:57:59 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29935/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;570&amp;rdquo; gal_title=&amp;quot;海外42 2019年11月 Wuppertal&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外42 2019年11月 Catholic Parish of St. Johannes Baptist@Dortmund</title>
+      <link>https://westdorf01.github.io/blog/2019/30049/</link>
+      <pubDate>Fri, 29 Nov 2019 15:53:17 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/30049/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;582&amp;rdquo; gal_title=&amp;quot;海外42 2019年11月 Catholic Parish of St. Johannes Baptist@Dortmund&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外42 2019年11月 St. Petri Church@Dortmund</title>
+      <link>https://westdorf01.github.io/blog/2019/30038/</link>
+      <pubDate>Fri, 29 Nov 2019 15:44:51 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/30038/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;580&amp;rdquo; gal_title=&amp;quot;海外42 2019年11月 St. Petri Church@Dortmund&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外42 2019年11月 Münster St. Paul@Esslingen</title>
+      <link>https://westdorf01.github.io/blog/2019/30021/</link>
+      <pubDate>Thu, 28 Nov 2019 23:47:02 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/30021/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;578&amp;rdquo; gal_title=&amp;quot;海外42 2019年11月 Münster St. Paul@Esslingen&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外42 2019年11月 Stadtkirche St. Dionys@Esslingen</title>
+      <link>https://westdorf01.github.io/blog/2019/30007/</link>
+      <pubDate>Thu, 28 Nov 2019 23:36:09 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/30007/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;576&amp;rdquo; gal_title=&amp;quot;海外42 2019年11月 Stadtkirche St. Dionys@Esslingen&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外42 2019年11月 Esslingen</title>
+      <link>https://westdorf01.github.io/blog/2019/29919/</link>
+      <pubDate>Thu, 28 Nov 2019 20:44:34 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29919/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;568&amp;rdquo; gal_title=&amp;quot;海外42 2019年11月 Esslingen&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外42 2019年11月 マウルブロン修道院</title>
+      <link>https://westdorf01.github.io/blog/2019/29991/</link>
+      <pubDate>Thu, 28 Nov 2019 20:40:16 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29991/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;574&amp;rdquo; gal_title=&amp;quot;海外42 2019年11月 マウルブロン修道院&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外42 2019年11月  Maulbronn</title>
+      <link>https://westdorf01.github.io/blog/2019/29899/</link>
+      <pubDate>Thu, 28 Nov 2019 20:31:28 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29899/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;566&amp;rdquo; gal_title=&amp;quot;海外42 2019年11月 Maulbronn&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外42 2019年11月 Stuttgart</title>
+      <link>https://westdorf01.github.io/blog/2019/29882/</link>
+      <pubDate>Wed, 27 Nov 2019 23:13:55 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29882/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;564&amp;rdquo; gal_title=&amp;quot;海外42 2019年11月 Stuttgart&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外42 2019年11月 Ludwigsburg</title>
+      <link>https://westdorf01.github.io/blog/2019/29843/</link>
+      <pubDate>Wed, 27 Nov 2019 21:32:55 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29843/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;560&amp;rdquo; gal_title=&amp;quot;海外42 2019年11月 Ludwigsburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外42 2019年11月 Fürth</title>
+      <link>https://westdorf01.github.io/blog/2019/29821/</link>
+      <pubDate>Wed, 27 Nov 2019 21:21:50 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29821/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;558&amp;rdquo; gal_title=&amp;quot;海外42 2019年11月 Fürth&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外42 2019年11月 Aachen</title>
+      <link>https://westdorf01.github.io/blog/2019/29806/</link>
+      <pubDate>Mon, 25 Nov 2019 21:53:43 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29806/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;556&amp;rdquo; gal_title=&amp;quot;海外42 2019年11月 Aachen&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外42 2019年11月 Bonn BadGodesberg</title>
+      <link>https://westdorf01.github.io/blog/2019/29788/</link>
+      <pubDate>Sun, 24 Nov 2019 22:44:50 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29788/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;554&amp;rdquo; gal_title=&amp;quot;海外42 2019年11月 Bonn BadGodesberg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外42 2019年11月 Bonn</title>
+      <link>https://westdorf01.github.io/blog/2019/29775/</link>
+      <pubDate>Sun, 24 Nov 2019 22:18:09 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29775/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;552&amp;rdquo; gal_title=&amp;quot;海外42 2019年11月 Bonn&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外42 2019年11月Köln</title>
+      <link>https://westdorf01.github.io/blog/2019/29758/</link>
+      <pubDate>Sun, 24 Nov 2019 21:13:02 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29758/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;550&amp;rdquo; gal_title=&amp;quot;海外42 2019年11月Köln&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#122_20191121@日本橋(2019#14)</title>
+      <link>https://westdorf01.github.io/blog/2019/29633/</link>
+      <pubDate>Thu, 21 Nov 2019 22:16:39 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29633/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;538&amp;rdquo; gal_title=&amp;quot;道場#122_20191121@日本橋(2019#14)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>道場#121_20191113@赤坂(2019#13)</title>
+      <link>https://westdorf01.github.io/blog/2019/29613/</link>
+      <pubDate>Wed, 13 Nov 2019 22:08:44 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29613/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;536&amp;rdquo; gal_title=&amp;quot;道場#121_20191113@赤坂(2019#13)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>道場#120_20191108@日本橋(2019#12)</title>
+      <link>https://westdorf01.github.io/blog/2019/29600/</link>
+      <pubDate>Fri, 08 Nov 2019 21:54:53 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29600/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;534&amp;rdquo; gal_title=&amp;quot;道場#120_20191108@日本橋(2019#12)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>道場#119_20191030@銀座(2019#11)</title>
+      <link>https://westdorf01.github.io/blog/2019/29563/</link>
+      <pubDate>Wed, 30 Oct 2019 23:40:44 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29563/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;530&amp;rdquo; gal_title=&amp;quot;道場#119_20191030@銀座(2019#11)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>吉例、古本市</title>
+      <link>https://westdorf01.github.io/blog/2019/29586/</link>
+      <pubDate>Sun, 27 Oct 2019 21:49:45 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29586/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;532&amp;rdquo; gal_title=&amp;quot;20191027&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#118_20191021@丸の内(2019#10)</title>
+      <link>https://westdorf01.github.io/blog/2019/29534/</link>
+      <pubDate>Mon, 21 Oct 2019 23:03:31 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29534/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;528&amp;rdquo; gal_title=&amp;quot;道場#118_20191021@丸の内(2019#10)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>道場#117_20191017@博多(2019#09)</title>
+      <link>https://westdorf01.github.io/blog/2019/29503/</link>
+      <pubDate>Thu, 17 Oct 2019 22:41:43 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29503/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;526&amp;rdquo; gal_title=&amp;quot;道場#117_20191017@博多(2019#09)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>道場#116_20191009@福島(2019#08)</title>
+      <link>https://westdorf01.github.io/blog/2019/29480/</link>
+      <pubDate>Wed, 09 Oct 2019 23:31:47 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29480/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;524&amp;rdquo; gal_title=&amp;quot;道場#116_20191009@福島(2019#08)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>道場#115_20190925@博多(2019#07)</title>
+      <link>https://westdorf01.github.io/blog/2019/29272/</link>
+      <pubDate>Wed, 25 Sep 2019 22:23:54 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29272/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;506&amp;rdquo; gal_title=&amp;quot;道場#115_20190925@博多(2019#07)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>海外41 2019年9月 Hannover</title>
+      <link>https://westdorf01.github.io/blog/2019/29379/</link>
+      <pubDate>Thu, 19 Sep 2019 22:53:51 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29379/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;512&amp;rdquo; gal_title=&amp;quot;海外41 2019年9月 Hannover&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外41 2019年9月 Gießen</title>
+      <link>https://westdorf01.github.io/blog/2019/29362/</link>
+      <pubDate>Thu, 19 Sep 2019 17:41:40 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29362/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;510&amp;rdquo; gal_title=&amp;quot;海外41 2019年9月 Gießen&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外41 2019年9月 St. Bonifatius@BadNauheim</title>
+      <link>https://westdorf01.github.io/blog/2019/29456/</link>
+      <pubDate>Thu, 19 Sep 2019 15:36:22 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29456/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;522&amp;rdquo; gal_title=&amp;quot;海外41 2019年9月 St. Bonifatius@BadNauheim&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外41 2019年9月 BadNauheim</title>
+      <link>https://westdorf01.github.io/blog/2019/29342/</link>
+      <pubDate>Thu, 19 Sep 2019 14:25:00 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29342/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;508&amp;rdquo; gal_title=&amp;quot;海外41 2019年9月 BadNauheim&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外41 2019年9月 Stadtkirche Limburg</title>
+      <link>https://westdorf01.github.io/blog/2019/29438/</link>
+      <pubDate>Wed, 18 Sep 2019 16:24:55 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29438/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;520&amp;rdquo; gal_title=&amp;quot;海外41 2019年9月 Stadtkirche Limburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外41 2019年9月 St. Martin, Idstein</title>
+      <link>https://westdorf01.github.io/blog/2019/29424/</link>
+      <pubDate>Wed, 18 Sep 2019 15:53:29 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29424/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;518&amp;rdquo; gal_title=&amp;quot;海外41 2019年9月 St. Martin, Idstein&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外41 2019年9月 Unionskirche Idstein</title>
+      <link>https://westdorf01.github.io/blog/2019/29406/</link>
+      <pubDate>Wed, 18 Sep 2019 15:45:30 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29406/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;516&amp;rdquo; gal_title=&amp;quot;海外41 2019年9月 Unionskirche Idstein&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外41 2019年9月 Idstein</title>
+      <link>https://westdorf01.github.io/blog/2019/29257/</link>
+      <pubDate>Wed, 18 Sep 2019 15:14:50 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29257/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;504&amp;rdquo; gal_title=&amp;quot;海外41 2019年9月 Idstein&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外41 2019年9月 Dom zu Limburg</title>
+      <link>https://westdorf01.github.io/blog/2019/29392/</link>
+      <pubDate>Tue, 17 Sep 2019 22:40:45 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29392/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;514&amp;rdquo; gal_title=&amp;quot;海外41 2019年9月 Dom zu Limburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外41 2019年9月 Limburg</title>
+      <link>https://westdorf01.github.io/blog/2019/29224/</link>
+      <pubDate>Tue, 17 Sep 2019 22:34:31 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29224/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;502&amp;rdquo; gal_title=&amp;quot;海外41 2019年9月 Limburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>ケーキだらけ</title>
+      <link>https://westdorf01.github.io/blog/2019/29211/</link>
+      <pubDate>Sun, 15 Sep 2019 15:28:21 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29211/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;500&amp;rdquo; gal_title=&amp;quot;20190915&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#114_20190911@京橋(2019#06)</title>
+      <link>https://westdorf01.github.io/blog/2019/29192/</link>
+      <pubDate>Wed, 11 Sep 2019 22:57:03 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29192/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;498&amp;rdquo; gal_title=&amp;quot;道場#114_20190911@京橋(2019#06)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>大杉漣の愛した福臨門</title>
+      <link>https://westdorf01.github.io/blog/2019/29175/</link>
+      <pubDate>Fri, 06 Sep 2019 23:17:36 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29175/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;496&amp;rdquo; gal_title=&amp;quot;20190906&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#113_20190904@博多(2019#05)</title>
+      <link>https://westdorf01.github.io/blog/2019/29149/</link>
+      <pubDate>Wed, 04 Sep 2019 23:47:56 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29149/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;494&amp;rdquo; gal_title=&amp;quot;道場#113_20190904@博多(2019#05)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>目黒區を散歩</title>
+      <link>https://westdorf01.github.io/blog/2019/29129/</link>
+      <pubDate>Sat, 31 Aug 2019 22:59:55 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29129/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;492&amp;rdquo; gal_title=&amp;quot;20190831&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#112_20190828@赤坂(2019#04)</title>
+      <link>https://westdorf01.github.io/blog/2019/29098/</link>
+      <pubDate>Wed, 28 Aug 2019 23:13:48 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29098/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;490&amp;rdquo; gal_title=&amp;quot;道場#112_20190828@赤坂(2019#04)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>道場#111_20190821@東麻布(2019#03)</title>
+      <link>https://westdorf01.github.io/blog/2019/29079/</link>
+      <pubDate>Wed, 21 Aug 2019 22:34:27 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29079/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;488&amp;rdquo; gal_title=&amp;quot;道場#111_20190821@東麻布(2019#03)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>道場#110_20190807@銀座(2019#02)</title>
+      <link>https://westdorf01.github.io/blog/2019/29050/</link>
+      <pubDate>Wed, 07 Aug 2019 23:14:20 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29050/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;486&amp;rdquo; gal_title=&amp;quot;道場#110_20190807@三田(2019#02)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>おっさん食事会@丸の内</title>
+      <link>https://westdorf01.github.io/blog/2019/29036/</link>
+      <pubDate>Tue, 06 Aug 2019 22:29:34 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29036/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;484&amp;rdquo; gal_title=&amp;quot;20190806&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>焼肉の名門「天壇」</title>
+      <link>https://westdorf01.github.io/blog/2019/29016/</link>
+      <pubDate>Fri, 02 Aug 2019 23:06:48 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/29016/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;482&amp;rdquo; gal_title=&amp;quot;20190802&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#109_20190731@三田(2019#01)</title>
+      <link>https://westdorf01.github.io/blog/2019/28991/</link>
+      <pubDate>Wed, 31 Jul 2019 22:24:26 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28991/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;480&amp;rdquo; gal_title=&amp;quot;道場#109_20190731@三田(2019#01)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>某所で感謝会</title>
+      <link>https://westdorf01.github.io/blog/2019/28970/</link>
+      <pubDate>Wed, 24 Jul 2019 23:05:06 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28970/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;478&amp;rdquo; gal_title=&amp;quot;20190724&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>真ん中散歩</title>
+      <link>https://westdorf01.github.io/blog/2019/28953/</link>
+      <pubDate>Sun, 21 Jul 2019 22:26:50 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28953/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;476&amp;rdquo; gal_title=&amp;quot;20190721&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>オルガンコンサート&amp;中華</title>
+      <link>https://westdorf01.github.io/blog/2019/28930/</link>
+      <pubDate>Sat, 13 Jul 2019 21:13:41 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28930/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;474&amp;rdquo; gal_title=&amp;quot;20190713&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>肉だ</title>
+      <link>https://westdorf01.github.io/blog/2019/28916/</link>
+      <pubDate>Thu, 11 Jul 2019 22:00:20 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28916/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;472&amp;rdquo; gal_title=&amp;quot;20190711&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>BBQ@万博公園</title>
+      <link>https://westdorf01.github.io/blog/2019/28887/</link>
+      <pubDate>Sat, 06 Jul 2019 20:25:01 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28887/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;470&amp;rdquo; gal_title=&amp;quot;20190706&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>あの蒲田の名店</title>
+      <link>https://westdorf01.github.io/blog/2019/28868/</link>
+      <pubDate>Wed, 03 Jul 2019 22:46:31 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28868/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;468&amp;rdquo; gal_title=&amp;quot;20190703&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>久々のラグビー</title>
+      <link>https://westdorf01.github.io/blog/2019/28848/</link>
+      <pubDate>Sun, 16 Jun 2019 21:58:14 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28848/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;466&amp;rdquo; gal_title=&amp;quot;20190616rugby&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>江戸川區を散歩</title>
+      <link>https://westdorf01.github.io/blog/2019/28824/</link>
+      <pubDate>Sun, 16 Jun 2019 21:51:38 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28824/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;464&amp;rdquo; gal_title=&amp;quot;20190616&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>スペイン料理@銀座</title>
+      <link>https://westdorf01.github.io/blog/2019/28804/</link>
+      <pubDate>Fri, 14 Jun 2019 22:53:26 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28804/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;462&amp;rdquo; gal_title=&amp;quot;20190614&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>近所で野生観察会</title>
+      <link>https://westdorf01.github.io/blog/2019/28774/</link>
+      <pubDate>Sat, 08 Jun 2019 15:06:36 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28774/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;460&amp;rdquo; gal_title=&amp;quot;20190608&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>新しいレンズで新宿から六本木</title>
+      <link>https://westdorf01.github.io/blog/2019/28746/</link>
+      <pubDate>Sun, 12 May 2019 16:18:02 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28746/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;455&amp;rdquo; gal_title=&amp;quot;20190512&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>銀座で洋食</title>
+      <link>https://westdorf01.github.io/blog/2019/28729/</link>
+      <pubDate>Wed, 08 May 2019 22:07:28 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28729/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;453&amp;rdquo; gal_title=&amp;quot;20190508&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>目黒區を散歩</title>
+      <link>https://westdorf01.github.io/blog/2019/28710/</link>
+      <pubDate>Sun, 05 May 2019 22:56:47 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28710/</guid>
+      <description>散歩の記目黒區、世田谷區、大森區[Best_Wordpress_Gallery id=&amp;quot;451&amp;rdquo; gal_title=&amp;quot;20190505&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>クリムトルコ</title>
+      <link>https://westdorf01.github.io/blog/2019/28695/</link>
+      <pubDate>Sat, 04 May 2019 23:51:45 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28695/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;449&amp;rdquo; gal_title=&amp;quot;20190504&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>麻布區・芝區を散歩</title>
+      <link>https://westdorf01.github.io/blog/2019/28642/</link>
+      <pubDate>Mon, 29 Apr 2019 20:14:38 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28642/</guid>
+      <description>散歩の記録麻布區、芝區[Best_Wordpress_Gallery id=&amp;quot;445&amp;rdquo; gal_title=&amp;quot;20190429&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 喰った</title>
+      <link>https://westdorf01.github.io/blog/2019/28659/</link>
+      <pubDate>Wed, 10 Apr 2019 11:06:52 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28659/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;447&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 喰った&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 St. Jakob@Nürnberg</title>
+      <link>https://westdorf01.github.io/blog/2019/28625/</link>
+      <pubDate>Tue, 09 Apr 2019 23:46:22 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28625/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;443&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 St. Jakob@Nürnberg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 St. Elisabeth Church@Nürnberg</title>
+      <link>https://westdorf01.github.io/blog/2019/28612/</link>
+      <pubDate>Tue, 09 Apr 2019 23:41:15 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28612/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;441&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 St. Elisabeth Church&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Offene Kirche St. Klara Nürnberg</title>
+      <link>https://westdorf01.github.io/blog/2019/28599/</link>
+      <pubDate>Tue, 09 Apr 2019 23:31:32 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28599/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;439&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Offene Kirche St. Klara Nürnberg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Nürnberg</title>
+      <link>https://westdorf01.github.io/blog/2019/28308/</link>
+      <pubDate>Tue, 09 Apr 2019 23:00:50 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28308/</guid>
+      <description>写真集はこちら[Best_Wordpress_Gallery id=&amp;quot;408&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Nürnberg&amp;rdq</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 St. Johannis, Ansbach</title>
+      <link>https://westdorf01.github.io/blog/2019/28580/</link>
+      <pubDate>Tue, 09 Apr 2019 22:53:07 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28580/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;436&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 St. Johannis, Ansbach&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 St. Gumbertuskirche Ansbach</title>
+      <link>https://westdorf01.github.io/blog/2019/28568/</link>
+      <pubDate>Tue, 09 Apr 2019 22:45:35 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28568/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;434&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 St. Gumbertuskirche Ansbach&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Ludwigskirche@Ansbach</title>
+      <link>https://westdorf01.github.io/blog/2019/28550/</link>
+      <pubDate>Tue, 09 Apr 2019 22:35:18 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28550/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;432&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Ludwigskirche@Ansbach&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Ansbach</title>
+      <link>https://westdorf01.github.io/blog/2019/28284/</link>
+      <pubDate>Tue, 09 Apr 2019 22:06:59 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28284/</guid>
+      <description>写真集はこちら[Best_Wordpress_Gallery id=&amp;quot;406&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Ansbach&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Mariä Himmelfahrt@Ingolstadt</title>
+      <link>https://westdorf01.github.io/blog/2019/28530/</link>
+      <pubDate>Mon, 08 Apr 2019 23:50:27 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28530/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;430&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Mariä Himmelfahrt@Ingolstadt&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Matthäus Kirche@Ingolstadt</title>
+      <link>https://westdorf01.github.io/blog/2019/28517/</link>
+      <pubDate>Mon, 08 Apr 2019 23:27:30 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28517/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;428&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Matthäus Kirche@Ingolstadt&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Liebfrauenmünster@Ingolstadt</title>
+      <link>https://westdorf01.github.io/blog/2019/28496/</link>
+      <pubDate>Mon, 08 Apr 2019 23:20:24 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28496/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;426&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Liebfrauenmünster@Ingolstadt&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 St. Moritz@Ingolstadt</title>
+      <link>https://westdorf01.github.io/blog/2019/28484/</link>
+      <pubDate>Mon, 08 Apr 2019 23:11:32 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28484/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;424&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 St. Moritz&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Ingolstadt</title>
+      <link>https://westdorf01.github.io/blog/2019/28261/</link>
+      <pubDate>Mon, 08 Apr 2019 22:50:07 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28261/</guid>
+      <description>写真集はこちら[Best_Wordpress_Gallery id=&amp;quot;404&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Ingolstadt&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Klumbach</title>
+      <link>https://westdorf01.github.io/blog/2019/28234/</link>
+      <pubDate>Sun, 07 Apr 2019 22:36:07 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28234/</guid>
+      <description>写真集はこちら[Best_Wordpress_Gallery id=&amp;quot;402&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Klumbach&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 City Church of the Holy Trinity Bayreuth</title>
+      <link>https://westdorf01.github.io/blog/2019/28467/</link>
+      <pubDate>Sun, 07 Apr 2019 20:50:26 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28467/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;422&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 City Church of the Holy Trinity Bayreuth&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Bayreuth</title>
+      <link>https://westdorf01.github.io/blog/2019/28199/</link>
+      <pubDate>Sun, 07 Apr 2019 19:28:42 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28199/</guid>
+      <description>写真集はこちら[Best_Wordpress_Gallery id=&amp;quot;400&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Bayreuth&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 St. Nicolai, Lüneburg</title>
+      <link>https://westdorf01.github.io/blog/2019/28440/</link>
+      <pubDate>Sat, 06 Apr 2019 21:41:59 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28440/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;420&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 St. Nicolai, Lüneburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 St. Michaelis, Lüneburg</title>
+      <link>https://westdorf01.github.io/blog/2019/28422/</link>
+      <pubDate>Sat, 06 Apr 2019 21:32:14 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28422/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;418&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 St. Michaelis, Lüneburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 St. Johns Church, Lüneburg</title>
+      <link>https://westdorf01.github.io/blog/2019/28398/</link>
+      <pubDate>Sat, 06 Apr 2019 21:23:32 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28398/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;416&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 St. Johns Church, Lüneburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Lüneburg</title>
+      <link>https://westdorf01.github.io/blog/2019/28172/</link>
+      <pubDate>Sat, 06 Apr 2019 21:05:16 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28172/</guid>
+      <description>写真集はこちら[Best_Wordpress_Gallery id=&amp;quot;398&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Lüneburg&amp;rdq</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Marktkirche Goslar</title>
+      <link>https://westdorf01.github.io/blog/2019/28379/</link>
+      <pubDate>Fri, 05 Apr 2019 23:49:29 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28379/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;414&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Marktkirche Goslar&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 St. Jakobus der Ältere</title>
+      <link>https://westdorf01.github.io/blog/2019/28363/</link>
+      <pubDate>Fri, 05 Apr 2019 23:48:19 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28363/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;412&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 St. Jakobus der Ältere&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Neuwerkkirche Goslar</title>
+      <link>https://westdorf01.github.io/blog/2019/28348/</link>
+      <pubDate>Fri, 05 Apr 2019 23:47:21 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28348/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;410&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Neuwerkkirche Goslar&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Goslar</title>
+      <link>https://westdorf01.github.io/blog/2019/28145/</link>
+      <pubDate>Fri, 05 Apr 2019 22:59:00 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28145/</guid>
+      <description>写真集はこちら[Best_Wordpress_Gallery id=&amp;quot;396&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Goslar&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Hannover</title>
+      <link>https://westdorf01.github.io/blog/2019/28121/</link>
+      <pubDate>Thu, 04 Apr 2019 22:51:47 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28121/</guid>
+      <description>写真集はこちら[Best_Wordpress_Gallery id=&amp;quot;394&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Hannover&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外40 2019年4月 Göttingen到着</title>
+      <link>https://westdorf01.github.io/blog/2019/28102/</link>
+      <pubDate>Wed, 03 Apr 2019 23:30:36 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28102/</guid>
+      <description>写真集はこちら[Best_Wordpress_Gallery id=&amp;quot;392&amp;rdquo; gal_title=&amp;quot;海外40 2019年4月 Göttingen到着&amp;</description>
+    </item>
+    
+    <item>
+      <title>近所のさくら</title>
+      <link>https://westdorf01.github.io/blog/2019/28074/</link>
+      <pubDate>Sun, 31 Mar 2019 21:39:34 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28074/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;390&amp;rdquo; gal_title=&amp;quot;20190331&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>攪拌宴会</title>
+      <link>https://westdorf01.github.io/blog/2019/28061/</link>
+      <pubDate>Thu, 28 Mar 2019 22:34:54 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28061/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;388&amp;rdquo; gal_title=&amp;quot;20190328&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#108_20190326@博多(2018#22)</title>
+      <link>https://westdorf01.github.io/blog/2019/28044/</link>
+      <pubDate>Tue, 26 Mar 2019 23:28:00 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28044/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;386&amp;rdquo; gal_title=&amp;quot;道場#108_20190326@博多(2018#22)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>肉バル</title>
+      <link>https://westdorf01.github.io/blog/2019/28024/</link>
+      <pubDate>Mon, 25 Mar 2019 22:32:40 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28024/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;384&amp;rdquo; gal_title=&amp;quot;20190325&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>さくらや</title>
+      <link>https://westdorf01.github.io/blog/2019/28008/</link>
+      <pubDate>Sun, 24 Mar 2019 15:13:40 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/28008/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;382&amp;rdquo; gal_title=&amp;quot;20190324&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>初台のあのお店</title>
+      <link>https://westdorf01.github.io/blog/2019/27928/</link>
+      <pubDate>Fri, 22 Mar 2019 23:11:35 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27928/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;340&amp;rdquo; gal_title=&amp;quot;20190322&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#106・107_20190320@目黒(2018#20・21)</title>
+      <link>https://westdorf01.github.io/blog/2019/27841/</link>
+      <pubDate>Wed, 20 Mar 2019 23:33:21 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27841/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;296&amp;rdquo; gal_title=&amp;quot;道場#106・107_20190320@目黒(2018#20・21)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>大森區馬込のへんを散歩〜春やなぁ</title>
+      <link>https://westdorf01.github.io/blog/2019/27817/</link>
+      <pubDate>Sun, 17 Mar 2019 22:30:40 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27817/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;294&amp;rdquo; gal_title=&amp;quot;20190317&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>ハーバリウム</title>
+      <link>https://westdorf01.github.io/blog/2019/27778/</link>
+      <pubDate>Sat, 16 Mar 2019 11:23:15 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27778/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;290&amp;rdquo; gal_title=&amp;quot;20190316&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>近所の神社</title>
+      <link>https://westdorf01.github.io/blog/2019/27759/</link>
+      <pubDate>Sun, 03 Mar 2019 16:19:25 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27759/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;288&amp;rdquo; gal_title=&amp;quot;20190303&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>春が見えた</title>
+      <link>https://westdorf01.github.io/blog/2019/27742/</link>
+      <pubDate>Sat, 02 Mar 2019 17:52:24 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27742/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;286&amp;rdquo; gal_title=&amp;quot;20190302&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>芝區を散歩</title>
+      <link>https://westdorf01.github.io/blog/2019/27725/</link>
+      <pubDate>Sun, 24 Feb 2019 20:10:05 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27725/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;284&amp;rdquo; gal_title=&amp;quot;20190224&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#105_20190220@赤坂(2018#19)</title>
+      <link>https://westdorf01.github.io/blog/2019/27700/</link>
+      <pubDate>Wed, 20 Feb 2019 23:22:54 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27700/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;282&amp;rdquo; gal_title=&amp;quot;道場#105_20190220@赤坂(2018#19)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>道場#104_20190213@京橋(2018#18)</title>
+      <link>https://westdorf01.github.io/blog/2019/27590/</link>
+      <pubDate>Wed, 13 Feb 2019 22:39:07 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27590/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;276&amp;rdquo; gal_title=&amp;quot;道場#104_20190213@京橋(2018#18)&amp;quot;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 ドイツで飲んだもの</title>
+      <link>https://westdorf01.github.io/blog/2019/27664/</link>
+      <pubDate>Sat, 09 Feb 2019 13:42:41 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27664/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;280&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 ドイツで飲んだもの&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 ドイツで喰ったもの</title>
+      <link>https://westdorf01.github.io/blog/2019/27613/</link>
+      <pubDate>Sat, 09 Feb 2019 12:34:08 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27613/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;278&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 ドイツで喰ったもの&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Munchen</title>
+      <link>https://westdorf01.github.io/blog/2019/27149/</link>
+      <pubDate>Fri, 08 Feb 2019 22:11:59 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27149/</guid>
+      <description>写真集はこちら[Best_Wordpress_Gallery id=&amp;quot;242&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Munchen&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Regensburg</title>
+      <link>https://westdorf01.github.io/blog/2019/27113/</link>
+      <pubDate>Thu, 07 Feb 2019 23:55:29 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27113/</guid>
+      <description>写真集はこちら[Best_Wordpress_Gallery id=&amp;quot;240&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Regensburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Karmelitenkloster Regensburg</title>
+      <link>https://westdorf01.github.io/blog/2019/27563/</link>
+      <pubDate>Thu, 07 Feb 2019 22:19:34 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27563/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;274&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Karmelitenkloster Regensburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Kollegiatstift unserer Lieben Frau zur alten Kapelle@Regensburg</title>
+      <link>https://westdorf01.github.io/blog/2019/27536/</link>
+      <pubDate>Thu, 07 Feb 2019 22:11:20 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27536/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;272&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Kollegiatstift unserer Lieben Frau zur alten Kapelle@Regensburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Dompfarrkirche Niedermünster@Regensburg</title>
+      <link>https://westdorf01.github.io/blog/2019/27505/</link>
+      <pubDate>Thu, 07 Feb 2019 21:57:26 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27505/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;270&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Dompfarrkirche Niedermünster@Regensburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Sankt Rupert@Regensburg</title>
+      <link>https://westdorf01.github.io/blog/2019/27465/</link>
+      <pubDate>Thu, 07 Feb 2019 21:42:53 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27465/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;268&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Sankt Rupert@Regensburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Evang. Neupfarrkirche@Regensburg</title>
+      <link>https://westdorf01.github.io/blog/2019/27454/</link>
+      <pubDate>Thu, 07 Feb 2019 21:33:38 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27454/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;266&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Evang. Neupfarrkirche@Regensburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Dom St Peter@Regensburg</title>
+      <link>https://westdorf01.github.io/blog/2019/27411/</link>
+      <pubDate>Thu, 07 Feb 2019 18:11:12 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27411/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;264&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Dom St Peter@Regensburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Kirche St. Mang@Regensburg</title>
+      <link>https://westdorf01.github.io/blog/2019/27398/</link>
+      <pubDate>Thu, 07 Feb 2019 17:58:53 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27398/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;262&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Kirche St. Mang@Regensburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Leipzig</title>
+      <link>https://westdorf01.github.io/blog/2019/27086/</link>
+      <pubDate>Wed, 06 Feb 2019 21:38:48 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27086/</guid>
+      <description>写真集はこちら[Best_Wordpress_Gallery id=&amp;quot;238&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Leipzig&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Thomaskirche@Leipzig</title>
+      <link>https://westdorf01.github.io/blog/2019/27359/</link>
+      <pubDate>Wed, 06 Feb 2019 17:23:04 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27359/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;260&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Thomaskirche@Leipzig&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Nikolaikirche Leipzig</title>
+      <link>https://westdorf01.github.io/blog/2019/27327/</link>
+      <pubDate>Tue, 05 Feb 2019 17:10:26 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27327/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;258&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Nikolaikirche Leipzig&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Leipzig到着</title>
+      <link>https://westdorf01.github.io/blog/2019/27067/</link>
+      <pubDate>Mon, 04 Feb 2019 23:24:38 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27067/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;236&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Leipzig到着&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Würzburg</title>
+      <link>https://westdorf01.github.io/blog/2019/27043/</link>
+      <pubDate>Mon, 04 Feb 2019 23:11:16 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27043/</guid>
+      <description>写真集はこちら[Best_Wordpress_Gallery id=&amp;quot;234&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Würzburg&amp;rdq</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Maria Chapel@Würzburg</title>
+      <link>https://westdorf01.github.io/blog/2019/27281/</link>
+      <pubDate>Mon, 04 Feb 2019 22:19:31 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27281/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;254&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Maria Chapel@Würzburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Würzburger Cathedral</title>
+      <link>https://westdorf01.github.io/blog/2019/27258/</link>
+      <pubDate>Mon, 04 Feb 2019 22:12:52 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27258/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;252&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Würzburger Cathedral&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 St. Michael Catholic Church@Würzburg</title>
+      <link>https://westdorf01.github.io/blog/2019/27241/</link>
+      <pubDate>Mon, 04 Feb 2019 22:00:28 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27241/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;250&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 St. Michael Catholic Church@Würzburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Stift haug@Würzburg</title>
+      <link>https://westdorf01.github.io/blog/2019/27222/</link>
+      <pubDate>Mon, 04 Feb 2019 21:52:54 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27222/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;248&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Stift haug@Würzburg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Bamberg</title>
+      <link>https://westdorf01.github.io/blog/2019/27298/</link>
+      <pubDate>Sun, 03 Feb 2019 23:56:09 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27298/</guid>
+      <description>写真集はこちら[Best_Wordpress_Gallery id=&amp;quot;256&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Bamberg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 St. Jakob@Bamberg</title>
+      <link>https://westdorf01.github.io/blog/2019/27201/</link>
+      <pubDate>Sun, 03 Feb 2019 21:28:14 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27201/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;246&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 St. Jakob@Bamberg&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Bamberg Cathedral</title>
+      <link>https://westdorf01.github.io/blog/2019/27172/</link>
+      <pubDate>Sun, 03 Feb 2019 11:12:51 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27172/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;244&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Bamberg Cathedral&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Würzburgの夜</title>
+      <link>https://westdorf01.github.io/blog/2019/27017/</link>
+      <pubDate>Sat, 02 Feb 2019 22:52:40 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27017/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;232&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Würzburgの夜&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>海外39 2019年2月 Frankfult到着</title>
+      <link>https://westdorf01.github.io/blog/2019/27010/</link>
+      <pubDate>Sat, 02 Feb 2019 16:39:32 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/27010/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;230&amp;rdquo; gal_title=&amp;quot;海外39 2019年2月 Frankfult到着&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>昼食会</title>
+      <link>https://westdorf01.github.io/blog/2019/26903/</link>
+      <pubDate>Tue, 29 Jan 2019 19:31:06 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/26903/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;197&amp;rdquo; gal_title=&amp;quot;20190129&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>神保町徘徊</title>
+      <link>https://westdorf01.github.io/blog/2019/26820/</link>
+      <pubDate>Sun, 27 Jan 2019 17:04:23 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/26820/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;153&amp;rdquo; gal_title=&amp;quot;20190127&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>宴会@浜松町</title>
+      <link>https://westdorf01.github.io/blog/2019/26765/</link>
+      <pubDate>Fri, 25 Jan 2019 22:24:04 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/26765/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;123&amp;rdquo; gal_title=&amp;quot;20190125&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>玉子サンドおじさんとタイカラ</title>
+      <link>https://westdorf01.github.io/blog/2019/26751/</link>
+      <pubDate>Thu, 24 Jan 2019 22:11:32 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/26751/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;121&amp;rdquo; gal_title=&amp;quot;20190124&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#103_20190123@田町(2018#17)</title>
+      <link>https://westdorf01.github.io/blog/2019/26728/</link>
+      <pubDate>Wed, 23 Jan 2019 23:01:19 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/26728/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;119&amp;rdquo; gal_title=&amp;quot;道場#103_20190123&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>オイラーの回転チーズ</title>
+      <link>https://westdorf01.github.io/blog/2019/26697/</link>
+      <pubDate>Mon, 21 Jan 2019 23:51:52 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/26697/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;117&amp;rdquo; gal_title=&amp;quot;20190121&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>目黒區、澁谷區、麻布區を散歩</title>
+      <link>https://westdorf01.github.io/blog/2019/26672/</link>
+      <pubDate>Sun, 20 Jan 2019 20:31:39 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/26672/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;115&amp;rdquo; gal_title=&amp;quot;20190120&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>名古屋でメシ</title>
+      <link>https://westdorf01.github.io/blog/2019/26624/</link>
+      <pubDate>Tue, 15 Jan 2019 22:25:12 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/26624/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;112&amp;rdquo; gal_title=&amp;quot;20190115&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>下谷區谷中と荒川區を散歩</title>
+      <link>https://westdorf01.github.io/blog/2019/26499/</link>
+      <pubDate>Sat, 12 Jan 2019 18:38:11 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/26499/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;82&amp;rdquo; gal_title=&amp;quot;20190112&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>道場#102_20190108@福島(2018#16)</title>
+      <link>https://westdorf01.github.io/blog/2019/26387/</link>
+      <pubDate>Tue, 08 Jan 2019 23:27:27 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/26387/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;57&amp;rdquo; gal_title=&amp;quot;道場#102_20190108&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>麻布區を散歩(見られた)</title>
+      <link>https://westdorf01.github.io/blog/2019/26364/</link>
+      <pubDate>Sat, 05 Jan 2019 15:49:09 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/26364/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;41&amp;rdquo; gal_title=&amp;quot;20190105&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>大森區と蒲田區を散歩(昔住んでた)</title>
+      <link>https://westdorf01.github.io/blog/2019/26315/</link>
+      <pubDate>Fri, 04 Jan 2019 21:39:00 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/26315/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;39&amp;rdquo; gal_title=&amp;quot;20190104&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>近所の正月</title>
+      <link>https://westdorf01.github.io/blog/2019/26256/</link>
+      <pubDate>Wed, 02 Jan 2019 16:31:48 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/26256/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;22&amp;rdquo; gal_title=&amp;quot;20190102&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>おせち公開</title>
+      <link>https://westdorf01.github.io/blog/2019/26182/</link>
+      <pubDate>Tue, 01 Jan 2019 12:48:11 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/26182/</guid>
+      <description>[Best_Wordpress_Gallery id=&amp;quot;16&amp;rdquo; gal_title=&amp;quot;20190101&amp;rdquo;]</description>
+    </item>
+    
+    <item>
+      <title>2019年  明けましておめでとうございます</title>
+      <link>https://westdorf01.github.io/blog/2019/26175/</link>
+      <pubDate>Tue, 01 Jan 2019 12:26:25 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/26175/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
