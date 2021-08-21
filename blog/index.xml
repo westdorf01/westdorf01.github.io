@@ -17,7 +17,7 @@
       <pubDate>Sat, 27 Mar 2021 20:05:50 +0900</pubDate>
       
       <guid>https://westdorf01.github.io/blog/2021/30751/</guid>
-      <description>if (!jQuery) { alert(&#34;jquery is not loaded&#34;); } $( document ).ready(() = { const gallery = $(&#34;#gallery-0&#34;); gallery.justifiedGallery({ rowHeight : &#34;150&#34;, margins : &#34;5&#34;, border : 0, waitThumbnailsLoad : false, lastRow : &#34;justify&#34;, captions : false, }); let swipeboxInstance = null; gallery.on(&#39;jg.complete&#39;, () = { $(() = { $(&#39;.lazy&#39;).Lazy({ visibleOnly: true, afterLoad: element = element.css({filter: &#34;none&#34;, transition: &#34;filter 1.0s ease-in-out&#34;}) }); }); swipeboxInstance = $(&#39;.galleryImg&#39;).swipebox( jQuery.extend({}, { } ) );</description>
+      <description>20mm f/5.6 0.029411764705882353sec ISO 200&#34; 20mm f/5.6 0.03571428571428571sec ISO 320&#34; 20.6mm f/5.6 0.03571428571428571sec ISO 250&#34; 29.2mm f/7.1 0.023809523809523808sec ISO 2500&#34; if (!jQuery) { alert(&#34;jquery is not loaded&#34;); } $( document ).ready(() = { const gallery = $(&#34;#gallery-0&#34;); gallery.justifiedGallery({ rowHeight : &#34;150&#34;, margins : &#34;5&#34;, border : 0, waitThumbnailsLoad : false, lastRow : &#34;justify&#34;, captions : false, }); let swipeboxInstance = null; gallery.on(&#39;jg.complete&#39;, () = { $(() = { $(&#39;.lazy&#39;).Lazy({ visibleOnly:</description>
     </item>
     
     <item>
