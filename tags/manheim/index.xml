@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manheim on kapulusite</title>
+    <link>https://westdorf01.github.io/tags/manheim/</link>
+    <description>Recent content in Manheim on kapulusite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 26 Nov 2017 23:39:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://westdorf01.github.io/tags/manheim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>海外37 2017年11月 Jesuitenkirche(Mannheim)</title>
+      <link>https://westdorf01.github.io/blog/2017/22402/</link>
+      <pubDate>Sun, 26 Nov 2017 23:39:00 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2017/22402/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>海外37 2017年11月 マンハイム</title>
+      <link>https://westdorf01.github.io/blog/2017/22399/</link>
+      <pubDate>Sun, 26 Nov 2017 23:26:42 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2017/22399/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
