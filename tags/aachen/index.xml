@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aachen on kapulusite</title>
+    <link>https://westdorf01.github.io/tags/aachen/</link>
+    <description>Recent content in Aachen on kapulusite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 25 Nov 2019 21:53:43 +0900</lastBuildDate>
+    
+	<atom:link href="https://westdorf01.github.io/tags/aachen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>海外42 2019年11月 Aachen</title>
+      <link>https://westdorf01.github.io/blog/2019/20191125-215343/</link>
+      <pubDate>Mon, 25 Nov 2019 21:53:43 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2019/20191125-215343/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>海外35 2017年8月 ドイツはどいつの国を探す旅：Aachen</title>
+      <link>https://westdorf01.github.io/blog/2017/20170813-223559/</link>
+      <pubDate>Sun, 13 Aug 2017 22:35:59 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2017/20170813-223559/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

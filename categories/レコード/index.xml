@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>レコード on kapulusite</title>
+    <link>https://westdorf01.github.io/categories/%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/</link>
+    <description>Recent content in レコード on kapulusite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 11 Apr 2015 15:49:05 +0900</lastBuildDate>
+    
+	<atom:link href="https://westdorf01.github.io/categories/%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>復活 Stax UA-7</title>
+      <link>https://westdorf01.github.io/blog/2015/20150411-154905/</link>
+      <pubDate>Sat, 11 Apr 2015 15:49:05 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2015/20150411-154905/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DISK UNION@新宿</title>
+      <link>https://westdorf01.github.io/blog/2015/20150315-224430/</link>
+      <pubDate>Sun, 15 Mar 2015 22:44:30 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2015/20150315-224430/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RARE @高井戸</title>
+      <link>https://westdorf01.github.io/blog/2015/20150215-150149/</link>
+      <pubDate>Sun, 15 Feb 2015 15:01:49 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2015/20150215-150149/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

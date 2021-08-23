@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mainz on kapulusite</title>
+    <link>https://westdorf01.github.io/tags/mainz/</link>
+    <description>Recent content in Mainz on kapulusite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 12 Aug 2017 22:19:32 +0900</lastBuildDate>
+    
+	<atom:link href="https://westdorf01.github.io/tags/mainz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>海外35 2017年8月 ドイツはどいつの国を探す旅：ライン川(Mainz〜Koblenz)</title>
+      <link>https://westdorf01.github.io/blog/2017/20170812-221932/</link>
+      <pubDate>Sat, 12 Aug 2017 22:19:32 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2017/20170812-221932/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>海外35 2017年8月 ドイツはどいつの国を探す旅：シャガールのステンドグラス(聖シュテファン教会)</title>
+      <link>https://westdorf01.github.io/blog/2017/20170812-220913/</link>
+      <pubDate>Sat, 12 Aug 2017 22:09:13 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2017/20170812-220913/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>海外35 2017年8月 ドイツはどいつの国を探す旅：Mainz</title>
+      <link>https://westdorf01.github.io/blog/2017/20170812-220506/</link>
+      <pubDate>Sat, 12 Aug 2017 22:05:06 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2017/20170812-220506/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

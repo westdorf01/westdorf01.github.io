@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PC on kapulusite</title>
+    <link>https://westdorf01.github.io/categories/pc/</link>
+    <description>Recent content in PC on kapulusite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 24 Jul 2016 20:48:35 +0900</lastBuildDate>
+    
+	<atom:link href="https://westdorf01.github.io/categories/pc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NASのファンを交換した</title>
+      <link>https://westdorf01.github.io/blog/2016/20160724-204835/</link>
+      <pubDate>Sun, 24 Jul 2016 20:48:35 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2016/20160724-204835/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>でかっ！</title>
+      <link>https://westdorf01.github.io/blog/2016/20160123-152205/</link>
+      <pubDate>Sat, 23 Jan 2016 15:22:05 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2016/20160123-152205/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCとネット環境</title>
+      <link>https://westdorf01.github.io/blog/2014/20141109-214535/</link>
+      <pubDate>Sun, 09 Nov 2014 21:45:35 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2014/20141109-214535/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ついにゴミ箱 Mac Pro</title>
+      <link>https://westdorf01.github.io/blog/2014/20140517-212253/</link>
+      <pubDate>Sat, 17 May 2014 21:22:53 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2014/20140517-212253/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MacBook ProでEMACS</title>
+      <link>https://westdorf01.github.io/blog/2014/20140315-175455/</link>
+      <pubDate>Sat, 15 Mar 2014 17:54:55 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2014/20140315-175455/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mac mini</title>
+      <link>https://westdorf01.github.io/blog/2013/20130615-092609/</link>
+      <pubDate>Sat, 15 Jun 2013 09:26:09 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2013/20130615-092609/</guid>
+      <description>.</description>
+    </item>
+    
+    <item>
+      <title>Acer ICONIA W700</title>
+      <link>https://westdorf01.github.io/blog/2012/20121208-160413/</link>
+      <pubDate>Sat, 08 Dec 2012 16:04:13 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/blog/2012/20121208-160413/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
