@@ -18,7 +18,7 @@
 <meta itemprop="description" content="">
 <meta itemprop="datePublished" content="2019-12-25T22:36:06&#43;09:00" />
 <meta itemprop="dateModified" content="2019-12-25T22:36:06&#43;09:00" />
-<meta itemprop="wordCount" content="53">
+<meta itemprop="wordCount" content="87">
 
 
 
@@ -70,7 +70,132 @@
 		<figure class="post__thumbnail">
 			<img src="/blog/2019/29951/20191225_190057.jpg" alt="道場#126_20191225@北新地(2019#18)">
 		</figure><div class="content post__content clearfix">
-			<p>[Best_Wordpress_Gallery id=&quot;572&rdquo; gal_title=&quot;道場#126_20191225@北新地(2019#18)&quot;]</p>
+			
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  	
+	
+
+	
+		<script src="/shortcode-gallery/jquery-3.6.0.min.js"></script>
+	
+	
+	
+		<script src="/shortcode-gallery/lazy/jquery.lazy.min.js"></script>
+	
+
+	<script src="/shortcode-gallery/swipebox/js/jquery.swipebox.min.js"></script>
+	<link rel="stylesheet" href="/shortcode-gallery/swipebox/css/swipebox.min.css">
+
+	<script src="/shortcode-gallery/justified_gallery/jquery.justifiedGallery.min.js"></script>
+	<link rel="stylesheet" href="/shortcode-gallery/justified_gallery/justifiedGallery.min.css"/>
+
+
+<style>
+	
+		.jg-entry img {
+			transition: transform .25s ease-in-out !important;
+		}
+
+		.jg-entry img:hover {
+			transform: scale(1.1);
+		}
+	
+
+	
+</style>
+
+
+
+
+
+<div id="gallery-0-wrapper" class="gallery-wrapper">
+<div id="gallery-0" class="justified-gallery">
+	
+</div>
+</div>
+
+<script>
+	if (!jQuery) {
+		alert("jquery is not loaded");
+	}
+
+	$( document ).ready(() => {
+		const gallery = $("#gallery-0");
+		
+
+		gallery.justifiedGallery({
+			rowHeight : "150",
+			margins : "5",
+			border : 0,
+			waitThumbnailsLoad : false,
+			lastRow : "justify",
+			captions : false,
+			
+			
+		});
+
+		
+		let swipeboxInstance = null;
+
+		gallery.on('jg.complete', () => {
+			
+				
+				
+				$(() => {
+					$('.lazy').Lazy({
+						visibleOnly: true,
+						afterLoad: element => element.css({filter: "none", transition: "filter 1.0s ease-in-out"})
+					});
+				});
+			
+
+			swipeboxInstance = $('.galleryImg').swipebox(
+				jQuery.extend({},
+					{  }
+				)
+			);
+		});
+
+		
+		
+	});
+</script>
+
 
 		</div>
 	</article>
