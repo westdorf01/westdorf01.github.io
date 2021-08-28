@@ -49,7 +49,29 @@
 				</div>
 		</a>
 	</div>
-		<div class="divider"></div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/blog/">
+				
+				<span class="menu__text">blog</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/archives/blog/">
+				
+				<span class="menu__text">投稿一覧</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
 	</div>
 </header>
 		<div class="wrapper flex">
@@ -225,6 +247,12 @@
 </div>
 
 <nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/blog/archives/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">Blog Archive</p>
+		</a>
+	</div>
 	<div class="pager__item pager__item--next">
 		<a class="pager__link" href="/blog/1989/19890903-221821/" rel="next">
 			<span class="pager__subtitle">Next&thinsp;»</span>
