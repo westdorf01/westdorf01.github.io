@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on kapulusite</title>
+    <link>https://westdorf01.github.io/article/</link>
+    <description>Recent content in Articles on kapulusite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 07 Sep 2021 10:04:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://westdorf01.github.io/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>海外</title>
+      <link>https://westdorf01.github.io/article/abroad/</link>
+      <pubDate>Tue, 07 Sep 2021 10:04:00 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/article/abroad/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
