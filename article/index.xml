@@ -6,15 +6,24 @@
     <description>Recent content in Articles on kapulusite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Sep 2021 10:04:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://westdorf01.github.io/article/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>トマソン</title>
+      <link>https://westdorf01.github.io/article/tomason/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0900</pubDate>
+      
+      <guid>https://westdorf01.github.io/article/tomason/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>海外</title>
       <link>https://westdorf01.github.io/article/abroad/</link>
-      <pubDate>Tue, 07 Sep 2021 10:04:00 +0900</pubDate>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0900</pubDate>
       
       <guid>https://westdorf01.github.io/article/abroad/</guid>
       <description></description>
