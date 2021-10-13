@@ -3,13 +3,238 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://westdorf01.github.io/article/</loc>
-    <lastmod>2021-09-19T00:00:00+09:00</lastmod>
+    <loc>https://westdorf01.github.io/blog/</loc>
+    <lastmod>2021-10-08T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/categories/</loc>
+    <lastmod>2021-10-08T00:00:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://westdorf01.github.io/</loc>
-    <lastmod>2021-09-19T00:00:00+09:00</lastmod>
+    <lastmod>2021-10-08T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/categories/%E3%81%A9%E3%81%A3%E3%81%8B/</loc>
+    <lastmod>2021-10-08T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/blog/2021/20211008_135040/</loc>
+    <lastmod>2021-10-08T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/categories/%E9%81%93%E5%A0%B4/</loc>
+    <lastmod>2021-10-07T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/categories/%E9%81%93%E5%A0%B42021%E5%B9%B4%E5%BA%A6/</loc>
+    <lastmod>2021-10-07T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/categories/%E9%81%93%E5%A0%B4%E7%95%AA%E5%A4%96/</loc>
+    <lastmod>2021-10-07T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/blog/2021/20211007_132743/</loc>
+    <lastmod>2021-10-07T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/shitayaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/setagayaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/nakanoku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/kyobashiku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/mukaijimaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/shinagawaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/yotsuyaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/jotoku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/omoriku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/koishikawaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/nihombashiku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/honjoku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/hongoku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/suginamiku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/itabashiku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/edogawaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/asakusaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/yodobashiku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/fukagawaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/shibuyaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/takinogawakuku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/ushigomeku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/ojiku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/meguroku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/kandaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/shibaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/ebaraku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/arakawaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/katsushikaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/kamataku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/toshimaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/akasakaku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/adachiku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/koujimachiku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/azabuku/</loc>
+    <lastmod>2021-09-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/tokyo35-index/</loc>
+    <lastmod>2021-09-23T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/article/tokyo35/</loc>
+    <lastmod>2021-09-23T00:00:00+09:00</lastmod>
   </url>
   
   <url>
@@ -148,16 +373,6 @@
   </url>
   
   <url>
-    <loc>https://westdorf01.github.io/blog/</loc>
-    <lastmod>2021-09-11T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://westdorf01.github.io/categories/</loc>
-    <lastmod>2021-09-11T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://westdorf01.github.io/blog/2021/20210911_163444/</loc>
     <lastmod>2021-09-11T00:00:00+09:00</lastmod>
   </url>
@@ -165,11 +380,6 @@
   <url>
     <loc>https://westdorf01.github.io/categories/pc/</loc>
     <lastmod>2021-09-11T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://westdorf01.github.io/categories/%E3%81%A9%E3%81%A3%E3%81%8B/</loc>
-    <lastmod>2021-03-27T20:05:50+09:00</lastmod>
   </url>
   
   <url>
@@ -230,11 +440,6 @@
   <url>
     <loc>https://westdorf01.github.io/blog/2020/20200328-141454/</loc>
     <lastmod>2020-03-28T14:14:54+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://westdorf01.github.io/categories/%E9%81%93%E5%A0%B4/</loc>
-    <lastmod>2020-03-25T23:37:06+09:00</lastmod>
   </url>
   
   <url>
@@ -1615,11 +1820,6 @@
   <url>
     <loc>https://westdorf01.github.io/blog/2018/20180527-212436/</loc>
     <lastmod>2018-05-27T21:24:36+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://westdorf01.github.io/categories/%E9%81%93%E5%A0%B4%E7%95%AA%E5%A4%96/</loc>
-    <lastmod>2018-05-24T22:11:34+09:00</lastmod>
   </url>
   
   <url>
@@ -9869,6 +10069,10 @@
   
   <url>
     <loc>https://westdorf01.github.io/archives/2021/09/</loc>
+  </url>
+  
+  <url>
+    <loc>https://westdorf01.github.io/archives/2021/10/</loc>
   </url>
   
   <url>
